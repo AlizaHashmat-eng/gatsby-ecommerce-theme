@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Gatsby E-commerce theme designed by Matter](https://user-images.githubusercontent.com/43764894/223762927-2e463570-b09a-4d51-ab81-2e0fa8aa2c70.png)
 
 This beautiful theme from the [Matter Design Team](https://matterdesign.com.au/) gives you the styling and scaffolding for your next e-commerce site. You can customize to your heart's content and add the tooling for cart, transactions, product, and more. This theme uses:
@@ -211,3 +212,6 @@ This project is intended to be extended by you! We wanted to make possible to re
 - [BigCommerce](https://bigcommerce.zfrcsk.net/c/2429593/854992/2941) for a headless e-commerce solution
 - [Builder](https://www.builder.io) as a CMS for the blog articles or other content creation
 - [Klaviyo](https://www.klaviyo.com/) for any email or SMS marketing automation
+=======
+# gatsby-ecommerce-theme
+>>>>>>> e571400b129daf7b71b22756ff4db8f07856216e
